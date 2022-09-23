@@ -16,7 +16,7 @@ import org.eclipse.microprofile.jwt.Claims;
 import io.smallrye.jwt.build.Jwt;
 
 @Path("/Jwt")
-public class GreetingResource {
+public class User {
 
     @GET
     @PermitAll

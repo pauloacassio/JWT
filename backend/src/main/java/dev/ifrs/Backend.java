@@ -11,7 +11,7 @@ import javax.ws.rs.core.MediaType;
 import org.eclipse.microprofile.jwt.Claim;
 import org.eclipse.microprofile.jwt.Claims;
 
-@Path("/Backend")
+@Path("/getSum")
 public class Backend {
     //@Inject
     //@Claim(standard = Claims.email)
